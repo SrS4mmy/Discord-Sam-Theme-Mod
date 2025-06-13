@@ -158,7 +158,7 @@ body {
 .visual-refresh {
     .bg__960e4 {
         background: transparent;
-    }
+    
     .container__01ae2 {
         background-color: transparent;
     }
@@ -314,10 +314,10 @@ body {
             content: 'user';
         }
         .sidebarList_c48ade::after {
-            content: 'channels';
+            content: 'group-name';
         }
         .subtitleContainer_f75fb0::after {
-            content: 'channel';
+            content: 'channel-interface';
         }
         .messagesWrapper__36d07::after {
             content: 'chat';
