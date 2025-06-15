@@ -314,10 +314,10 @@ body {
             content: 'user';
         }
         .sidebarList_c48ade::after {
-            content: 'group-name';
+            content: 'channels';
         }
         .subtitleContainer_f75fb0::after {
-            content: 'channel-interface';
+            content: 'channel';
         }
         .messagesWrapper__36d07::after {
             content: 'chat';
